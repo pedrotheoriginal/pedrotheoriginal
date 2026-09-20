@@ -22,5 +22,5 @@ I am currently developing collaborative software solutions with a team. Because 
 ---
 
 ### 📬 Let's Connect!
-* **Email:** your-email@email.com
+* **Email:** pedoblima100@gmail.com
 * **LinkedIn:** [Insert your LinkedIn profile link here]
