@@ -1,7 +1,7 @@
 ### Hi there! 👋 I'm a young developer building my path in tech.
 
 * 🚀 **Age:** 17 years old, currently finishing high school.
-* 💻 **Main Stack / Currently Learning:** Python, SQL, Java.
+* 💻 **Main Stack / Currently Learning:** Python, SQL, Java, AI-assisted development.
 * 🎯 **Goal:** Looking for opportunities (internships/junior roles) to grow, solve real-world problems, and gain hands-on industry experience.
 * 🗣️ **English:** Beginner / Elementary (actively learning every day, comfortable using translation tools for technical documentation).
 
@@ -23,6 +23,7 @@ I am currently developing collaborative software solutions with a team. Because 
 
 ### ⚡ Technologies & Tools
 <p align="left">
+  <img src="https://img.shields.io/badge/AI_Assisted_Dev-000000?style=for-the-badge&logo=openai&logoColor=white" alt="AI Assisted Development" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
