@@ -34,5 +34,5 @@ I am currently developing collaborative software solutions with a team. Because 
 ---
 
 ### 📬 Let's Connect!
-* **Email:** pedoblima100@gmail.com
-* **LinkedIn:** [www.linkedin.com/in/pedro-eduardo-759a86438]
+* **Email:** jaos38p@gmail.com
+* **LinkedIn:** www.linkedin.com/in/pedro-eduardo-759a86438
